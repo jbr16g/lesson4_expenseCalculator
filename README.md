@@ -13,8 +13,7 @@ Jason Randall
 The goal of the project is to compuhonte a user’s monthly living expenses and display the percentages of the total expenses spent for food, shelter, transportation, household, and misc. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/jbr16g/lesson4_expenseCalculator/
 
 ### Lessons Learned in the Assignment:
 1. I learned how create input statements and use the information I put in my variables.
